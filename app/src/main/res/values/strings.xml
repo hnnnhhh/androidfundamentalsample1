@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidfundamentalsample1</string>
+    <string name="enter_your_name" />
+    <string name="submit" />
+</resources>
